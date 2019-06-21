@@ -2,11 +2,9 @@
 
 
 """
-Write a program that determines how many times the following words
-appear with a text:
+Write a program that determines how many times a word
+appears within a text:
 
-Python
-Error
 """
 
 def analyze_text(filename, *args):
